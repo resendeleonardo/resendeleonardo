@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI, Data Analytics, Blockchain**
 
-- 👯 I’m looking to collaborate on **on anything related to web development and business**
+- 👯 I’m looking to collaborate on **anything related to web development and business**
 
 <!-- - 📫 How to reach me **linkedin.com/in/resende-leonardo/** -->
 
