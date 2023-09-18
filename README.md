@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Leonardo Resende</h1>
 <h3 align="center">A Software Developer from Brazil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /></h3>
 
-## About me
+<h3 align="left">About me</h3>
 
 - 🔭 I’m currently working on **developing Web Apps**
 
