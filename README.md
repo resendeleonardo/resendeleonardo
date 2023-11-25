@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm Leonardo Resende</h1>
-<h3 align="center">A Software Developer from Brazil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /></h3>
+<h3 align="center">A Full-Stack Developer from Brazil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /></h3>
 
 <h3 align="left">About me</h3>
 
-- 🔭 I’m currently working on **developing Web Apps**
+- 🔭 I’m currently working on **developing Full-Stack Web Apps**
 
-- 🌱 I’m currently learning **Web Development, Blockchain and AI**
+- 🌱 I’m currently learning **Full-Stack Development and AI**
 
-- 👯 I’m looking to collaborate on **anything related to Software Development and Startups**
+- 👯 I’m looking to collaborate on **anything related to building great projects with AI**
 
 <!-- - 📫 How to reach me **linkedin.com/in/resende-leonardo/** -->
 
