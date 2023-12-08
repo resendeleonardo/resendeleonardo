@@ -3,7 +3,7 @@
 
 <h3 align="left">About me</h3>
 
-- 🔭 I’m currently working on **developing Full-Stack Web Apps**
+- 🔭 I’m currently working on **Full-Stack Web Apps**
 
 - 🌱 I’m currently learning **Full-Stack Development and AI**
 
