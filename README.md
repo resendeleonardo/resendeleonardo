@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Full-Stack Web Apps**
 
-- 🌱 I’m currently learning **Full-Stack Development and AI**
+- 🌱 I’m currently learning **React with TypeScript**
 
-- 👯 I’m looking to collaborate on **anything related to building great projects with AI**
+- 👯 I’m looking to collaborate on **innovative solutions, let's connect and share ideas!**
 
 <!-- - 📫 How to reach me **linkedin.com/in/resende-leonardo/** -->
 
