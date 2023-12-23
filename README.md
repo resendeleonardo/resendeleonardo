@@ -3,9 +3,12 @@
 
 <h3 align="left">About me</h3>
 
-🚀 Full-stack developer with over 3 years of experience. Passionate about creating innovative solutions and turning ideas into reality with functional code.
-
-I am always open to connecting with professionals from all areas and collaborating on interesting projects. Let's explore opportunities to work together and share ideas!
+<p align="left">
+  🚀 Full-stack developer passionate about creating innovative solutions and turning ideas into reality with functional code.
+</p>
+<p align="left">
+  I am always open to connecting with professionals from all areas and collaborating on interesting projects. Let's explore opportunities to work together and share ideas!
+</p>
 
 <!--
 - 🔭 I’m currently working on **Full-Stack Web Apps**
@@ -16,66 +19,35 @@ I am always open to connecting with professionals from all areas and collaborati
 
 <!-- - 📫 How to reach me **linkedin.com/in/resende-leonardo/** -->
 
-<h3 align="left">Connect with me on LikedIn</h3>
-<p align="left">
-<a href="https://linkedin.com/in/resende-leonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="resende-leonardo" height="30" width="40" /></a>
-</p>
+<h3 align="left">
+  📫 Connect with me on <a href="https://linkedin.com/in/resende-leonardo" target="_blank">LinkedIn</a>
+</h3>
 
 <h3 align="left">Languages and Tools</h3>
 
-<p align="left">Frontend</p>
-
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<p align="left">Backend</p>
-
-###
-
-<div align="left">
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-</div>
-
-###
-
-<p align="left">Other Technologies</p>
-
-###
-
-<div align="left">
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
+<!-- 
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+-->
 
 
 
