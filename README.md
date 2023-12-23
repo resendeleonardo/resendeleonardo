@@ -3,11 +3,16 @@
 
 <h3 align="left">About me</h3>
 
+🚀 Full-stack developer with over 3 years of experience. Passionate about creating innovative solutions and turning ideas into reality with functional code.
+
+I am always open to connecting with professionals from all areas and collaborating on interesting projects. Let's explore opportunities to work together and share ideas!
+
+<!--
 - 🔭 I’m currently working on **Full-Stack Web Apps**
 
 - 🌱 I’m currently learning **React with TypeScript**
 
-- 👯 I’m looking to collaborate on **innovative solutions, let's connect and share ideas!**
+- 👯 I’m looking to collaborate on **innovative solutions, let's connect and share ideas!** -->
 
 <!-- - 📫 How to reach me **linkedin.com/in/resende-leonardo/** -->
 
