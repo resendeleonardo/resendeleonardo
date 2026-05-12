@@ -4,11 +4,19 @@
 <!-- <h3 align="left">About me</h3> -->
 
 <h3 align="left">
-  Software Engineer focusing on TypeScript & Cloud Infrastructure.
+  Software Engineer focusing on TypeScript, Cloud Infrastructure, and AI workflows.
 </h3>
 
 <p align="left">
   📫 Connect with me on <a href="https://linkedin.com/in/resende-leonardo" target="_blank">LinkedIn</a>
+</p>
+
+<p>
+  🛠 Building with:
+  
+  - TypeScript (Node.js, Next.js, Angular)
+  - Cloud Architecture with GCP & Firebase
+  - AI/LLM integrations for real-world products
 </p>
 
 ###
@@ -28,7 +36,7 @@
 ###
 
 <p align="left">
-  🛠 Top Skills
+  Top Skills
 </p>
 
 <div align="left">
@@ -47,12 +55,6 @@
   <!-- <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /> -->
   <!-- <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  /> -->
 </div>
-
-###
-
-<p align="left">
-  🤖 AI & Productivity: Integrating LLMs into production workflows to solve real challenges.
-</p>
 
 ###
 
