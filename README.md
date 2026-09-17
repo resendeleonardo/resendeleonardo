@@ -1,25 +1,21 @@
-```md
 # Leonardo Resende
 
-> profile
+`> profile`
 
-Software Engineer focused on **Product Engineering, Software Architecture, and Applied AI**.
+Software Engineer building products and systems from architecture to production.
 
-I design and build software products from architecture to production.
+`> focus`
 
-> focus
+Product Engineering / Software Architecture / Cloud Systems / Applied AI
 
-`Product Engineering` · `Software Architecture` · `Cloud Systems` · `Applied AI`
+`> current`
 
-> building
+Building software for autonomous systems, remote operations, and AI-assisted workflows.
 
-Software for autonomous systems, remote operations, and AI-assisted workflows.
+`> core`
 
-> stack
+TypeScript / Node.js / GCP / Distributed Systems
 
-`TypeScript` · `Node.js` · `GCP` · `React` · `Angular` · `PostgreSQL` · `Docker`
+`> connect`
 
-> connect
-
-[LinkedIn](https://linkedin.com/in/resende-leonardo)
-```
+<a href="https://linkedin.com/in/resende-leonardo">linkedin.com/in/resende-leonardo</a>
